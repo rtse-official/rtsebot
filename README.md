@@ -1,2 +1,2 @@
 # rtsebot
-RTSE Discord Bot
+RTSE Public \Discord Bot
