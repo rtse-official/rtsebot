@@ -1,0 +1,2 @@
+# rtsebot
+RTSE Discord Bot
